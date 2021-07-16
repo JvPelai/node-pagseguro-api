@@ -1,6 +1,6 @@
 FROM node:alpine 
 
-WORKDIR /usr/src/pagseguro-api
+WORKDIR /usr/src/node-pay-api
 
 COPY package*.json ./
 
