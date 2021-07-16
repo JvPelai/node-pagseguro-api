@@ -1,1 +1,1 @@
-# node-pagseguro-api
+# node-pay-api

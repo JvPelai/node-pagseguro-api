@@ -1,7 +1,7 @@
 {
-  "name": "pagseguro-api",
+  "name": "node-pay-api",
   "version": "1.0.0",
-  "description": "Integração com a api pagSeguro para realização de pagamentos",
+  "description": "Integração com a api para realização de pagamentos",
   "main": "src/index.ts",
   "dependencies": {},
   "devDependencies": {
@@ -40,7 +40,7 @@
   "author": "João Victor Pelai",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JvPelai/node-pagseguro-api/issues"
+    "url": "https://github.com/JvPelai/node-pay-api/issues"
   },
-  "homepage": "https://github.com/JvPelai/node-pagseguro-api#readme"
+  "homepage": "https://github.com/JvPelai/node-pay-api#readme"
 }
